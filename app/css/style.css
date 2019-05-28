@@ -2,15 +2,11 @@
 /* Общие стили */
 /* Общие стили */
 /* Header */
-.header {
-  min-height: 100px;
-  background-color: #f00; }
-
 /* Header */
 /* Основной контент. */
 /* Основной контент. */
 /* Футер. */
-.clear {
+.clearFix {
   clear: both; }
 
 /* Футер. */
