@@ -1,72 +1,54 @@
-.svg-1 {
-	background: url("svg/sprite.view-f491b3d7.svg") 0 0 no-repeat;
+.svg-contact {
+	background: url("svg/sprite.view-129c0ef7.svg") 0 0 no-repeat;
 }
 
-.svg-1-dims {
-	width: 100px;
-	height: 100px;
+.svg-contact-dims {
+	width: 140px;
+	height: 140px;
 }
 
-.svg-2 {
-	background: url("svg/sprite.view-f491b3d7.svg") 0 99.90755448411826% no-repeat;
+.svg-education {
+	background: url("svg/sprite.view-129c0ef7.svg") 50% 0 no-repeat;
 }
 
-.svg-2-dims {
-	width: 76.402px;
-	height: 75.209px;
+.svg-education-dims {
+	width: 140px;
+	height: 136.62px;
 }
 
-.svg-3 {
-	background: url("svg/sprite.view-f491b3d7.svg") 56.86341407938132% 0 no-repeat;
+.svg-experience {
+	background: url("svg/sprite.view-129c0ef7.svg") 0 99.8075140799886% no-repeat;
 }
 
-.svg-3-dims {
-	width: 96.14px;
-	height: 100px;
+.svg-experience-dims {
+	width: 140px;
+	height: 136.73px;
 }
 
-.svg-4 {
-	background: url("svg/sprite.view-f491b3d7.svg") 99.81679389312977% 0 no-repeat;
+.svg-profile {
+	background: url("svg/sprite.view-129c0ef7.svg") 50% 99.72930616896994% no-repeat;
 }
 
-.svg-4-dims {
-	width: 75.5px;
-	height: 100px;
+.svg-profile-dims {
+	width: 140px;
+	height: 136.62px;
 }
 
-.svg-fix {
-	background: url("svg/sprite.view-f491b3d7.svg") 0 37.623687873885395% no-repeat;
+.svg-skills {
+	background: url("svg/sprite.view-129c0ef7.svg") 100% 0 no-repeat;
 }
 
-.svg-fix-dims {
-	width: 100px;
-	height: 5.21px;
+.svg-skills-dims {
+	width: 140px;
+	height: 140px;
 }
 
-.svg-logo {
-	background: url("svg/sprite.view-f491b3d7.svg") 0 46.77455208287022% no-repeat;
+.svg-software {
+	background: url("svg/sprite.view-129c0ef7.svg") 100% 99.72930616896994% no-repeat;
 }
 
-.svg-logo-dims {
-	width: 100px;
-	height: 46.07px;
-}
-
-.svg-logo_triangle {
-	background: url("svg/sprite.view-f491b3d7.svg") 58.13953488372093% 46.77455208287022% no-repeat;
-}
-
-.svg-logo_triangle-dims {
-	width: 100px;
-	height: 46.07px;
-}
-
-.svg-tc_triangle {
-	background: url("svg/sprite.view-f491b3d7.svg") 0 66.74019499713239% no-repeat;
-}
-
-.svg-tc_triangle-dims {
-	width: 100px;
-	height: 44.33px;
+.svg-software-dims {
+	width: 140px;
+	height: 136.62px;
 }
 

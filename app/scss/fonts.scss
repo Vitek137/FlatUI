@@ -2,7 +2,7 @@
 $mono: false;
 $svg: true;
 $truetupe: true;
-@each $s in Academia Plain, Adventurer Black SF, Roboto Bold/* Список подключаемых шрифтов. */
+@each $s in Lato Black, Lato Light, Lato Bold, Lato Regular, Source Sans Pro Light, Source Sans Pro Regular/* Список подключаемых шрифтов. */
 {
     @font-face
     {
